@@ -7,6 +7,7 @@ Wine Dataset available on UCI Repository is of two categories:
 1. White Wine Dataset.
 
 For DataByte Induction Task We will be working on Red Wine Dataset to explore the Features upon which the quality of the Red Wine depends.
+## I HAVE CONVERTED THE RED WINE DATASET INTO EXCEL TYPE FORMAT USING EXCEL SO USE THE DATA PRESENT IN THE REPOSITORY.
 
 THE FLOW OF THE README FILE WILL BE AS FOLLOWS:
 
